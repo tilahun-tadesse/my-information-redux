@@ -52,7 +52,7 @@ function App() {
       </div> 
       <div>
         <div className='text-4xl'>
-         your Information
+         My Information
          </div>
          <div>
           <div className=' pr-10 text-xl'>FirstName:{firstName}</div>
