@@ -1,7 +1,5 @@
-import logo from './logo.svg';
+
 import './App.css';
-import './About'
-import About from './About';
 import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Firstname,Lastname,Gender,Age,Profesion } from './store/action/action';
